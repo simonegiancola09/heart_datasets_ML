@@ -12,8 +12,9 @@ Github Profile: [@simonegiancola09](https://github.com/simonegiancola09)
 I am absolutely not a professional, so any suggestion, either typo, code, writing, or analysis related is highly appreciated, and will be welcomed with enthusiasm. <br>
 
 **IMPORTANT**
-> I recommend reading this notebook with the link to Google Colab. Being quite big, my Jupyter environment did not load a table of contents at the beginning, making it very difficult to navigate the document. Gooogle Colab has a built in table of contents on the left.  This also makes Jupyter reading kind of painful since I put numbers to heading by hand and they would not match those of Jupyter. <br>
-Here is the link: <br> [Google Colab Notebook](https://colab.research.google.com/drive/1xP2SACZ2Kc0G7zUvOreoYbYLegiuCgbP?usp=sharing)
+> I recommend reading this notebook with the link to Google Colab. Being quite big, my Jupyter environment did not load a table of contents at the beginning, making it very difficult to navigate the document. Gooogle Colab has a built in table of contents on the left.  This also makes Jupyter reading kind of painful since I put numbers to heading by hand and they would not match those of Jupyter. If Colab does not open there is also a link to NbViewer below. <br>
+Here is the link: <br> [Google Colab Notebook](https://colab.research.google.com/drive/1xP2SACZ2Kc0G7zUvOreoYbYLegiuCgbP?usp=sharing) <br>
+[NbViewer](https://nbviewer.jupyter.org/github/simonegiancola09/heart_datasets_ML/blob/main/heart_disease.ipynb)
 
 > The second dataset is definitely more interesting, and has better results, so I suggest giving a look at it after having skimmed the method in the first dataset, without spending too much time on it. I would also point out that most of the models I found online had a higher accuracy but a low CV score (around 30% less), meaning less reliability. My model, though less accurate, seems to be more robust. <br>
 
