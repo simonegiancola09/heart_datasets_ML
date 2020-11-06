@@ -1,4 +1,4 @@
-# heart_datasets_ML
+# heart_datasets_ML (tidying code at the moment, some folders may be empty)
 Heartbeat classification (>90% accuracy, >95% CV score, >90% precision recall and f score), and disease detection(>80% accuracy) <br>
 
 
