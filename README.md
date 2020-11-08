@@ -4,7 +4,7 @@ Heartbeat classification (>90% accuracy, >95% CV score, >90% precision recall an
 
 **Author** <br>
 > Simone Maria Giancola <br>
-[Email](simonegiancola09@gmail.com)<br>
+simonegiancola09@gmail.com<br>
 +39 3314788683 <br>
 Linkedin Profile: [Simone Giancola](https://www.linkedin.com/in/simone-maria-giancola-011465173/) <br> 
 Github Profile: [@simonegiancola09](https://github.com/simonegiancola09) 
