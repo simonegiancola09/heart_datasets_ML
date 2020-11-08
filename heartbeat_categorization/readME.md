@@ -1,2 +1,2 @@
 **Heartbeat categorization** <br>
-This folder contains the analysis developed on the smaller/first dataset.
+This folder contains the analysis developed on the bigger/second dataset.
