@@ -24,8 +24,8 @@ I am absolutely not a professional, so any suggestion, either typo, code, writin
 While attending university I had the opportunity to learn the basics of Python and some of its libraries. This is one of the attempts of satisfying my personal taste with projects that could also be useful. <br>
 After having attended the Machine Learning course at Bocconi University, I felt motivated enough to apply the knowledge acquired in the healthcare setting. <br>
 [Kaggle](https://www.kaggle.com/) was a good starting point. There I found the two datasets I will work with in the following notebook. The first one is rather small, while the second one is definitely of higher size. More information can be found at the following links: <br>
-   * [Disease detection](https://www.kaggle.com/cherngs/heart-disease-cleveland-uci) <br>
-   * [Heartbeat categorization](https://www.kaggle.com/shayanfazeli/heartbeat?select=mitbih_train.csv) <br>
+   * [Kaggle; Disease detection](https://www.kaggle.com/cherngs/heart-disease-cleveland-uci) <br>
+   * [Kaggle; Heartbeat categorization](https://www.kaggle.com/shayanfazeli/heartbeat?select=mitbih_train.csv) <br>
 
 > Technical and knowledge sources vary from across the internet, libraries documentation, and lecture notes of the Python courses I had at Bocconi University. The framework, notation and main idea recalls that of the Machine Learning course I already mentioned, which used as a textbook: "_Hands on Machine Learning with Scikit-learn Keras and Tensorflow_". <br>
 
